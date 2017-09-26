@@ -1,0 +1,93 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  background-color: #548CBE;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+#camoen {
+  /*font-family: 'Montserrat', sans-serif;*/
+  color: white;
+}
+
+input {
+  text-align: center;
+  margin-top: 100px;
+  width: 250px;
+  border-radius: 8px;
+  font-size: 18px;
+}
+
+#term {
+  width: 310px;
+}
+  
+#search, #random {
+  margin-top: 2px;
+  width: 150px;
+  margin-top: 10px;  
+}
+
+
+#results {
+  margin-top: 60px;
+}
+
+.noSearch {
+  color: maroon;
+  font-weight: 500;
+}
+
+.searchmatch {
+  font-weight: 500;
+}
+
+.searchLink:link, .searchLink:visited {
+  color: #333;
+  text-decoration: none;
+}
+
+.searchResult {
+  background-color: white;
+  margin-bottom: 8px;
+}
+
+.searchResult:hover {
+  background-color: #333;
+  border-left: 3px solid #ff751a;
+  margin-left: -3px;
+  color: white;
+}
+
+.searchHeader {
+  text-align: left;
+  font-size: 16px;
+  font-weight: 500;
+  margin-top: 10px;
+  margin-bottom: 0px;
+  padding-top: 10px;
+  padding-left: 10px;
+}
+
+.snippets {
+  text-align: left;
+  margin-top: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+}
+
+#searchResult0 {
+  
+}
+
+/*.resultListing {
+  width: 600px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}*/
